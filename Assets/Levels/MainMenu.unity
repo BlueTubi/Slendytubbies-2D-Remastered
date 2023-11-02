@@ -9518,34 +9518,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ff9bcc4576d338049a07694da60d4773, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Servers:
-  - serverID: 2100eb01-e871-44a8-9fbc-e79caa0b99e5
-    curPlayers: '-'
-    maxPlayers: 20
-  - serverID: 0d72b86f-8db4-449f-a29d-a2fd9727d41f
-    curPlayers: '-'
-    maxPlayers: 20
-  - serverID: b0831d84-0e3e-40ae-b6d4-ff73991e14d0
-    curPlayers: '-'
-    maxPlayers: 20
-  - serverID: 12f327ef-f7d4-4163-b995-3997488cc2d0
-    curPlayers: '-'
-    maxPlayers: 20
-  - serverID: 731fe6b9-e19c-4d38-9d6e-45685b1993a0
-    curPlayers: '-'
-    maxPlayers: 20
-  - serverID: d610241a-7c66-496c-b41d-3e3d28fa8741
-    curPlayers: '-'
-    maxPlayers: 20
-  - serverID: 84054a21-34e9-4b5b-a98c-67cab9971cf4
-    curPlayers: '-'
-    maxPlayers: 20
-  - serverID: 265bb056-a08c-4380-9904-cc87022961ee
-    curPlayers: '-'
-    maxPlayers: 20
-  - serverID: e3af60ca-3e7e-452e-8439-ef307841cd5b
-    curPlayers: '-'
-    maxPlayers: 20
+  Servers: []
   rawInfo: []
   guiSkin: {fileID: 11400000, guid: c912098871aa4d84a9781da034e905dc, type: 2}
   scrollPosition: {x: 0, y: 0}
